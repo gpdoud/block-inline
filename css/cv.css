@@ -1,0 +1,14 @@
+body {
+    font: normal normal normal 12pt/14.4pt Calibri, Tahoma, Arial, sans-serif;
+    margin: 8px;
+}
+.sbs {
+    width: 49%;
+    display: inline-block;
+    /* border: 1px solid silver; */
+    vertical-align: top;
+    margin-bottom: 1em;
+}
+.right {
+    text-align: right;
+}

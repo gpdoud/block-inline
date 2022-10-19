@@ -1,0 +1,15 @@
+@page {
+    margin: .5in;
+}
+body {
+    visibility: hidden;
+}
+.print {
+    visibility: visible;
+}
+.noprint {
+    display: none;
+}
+table {
+    page-break-inside: avoid;
+}
